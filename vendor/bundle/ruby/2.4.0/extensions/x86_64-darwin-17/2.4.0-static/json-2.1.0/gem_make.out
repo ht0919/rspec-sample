@@ -1,0 +1,13 @@
+current directory: /Users/ht0919/hum/rails5/rspec-sample/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+/Users/ht0919/.anyenv/envs/rbenv/versions/2.4.1/bin/ruby -r ./siteconf20180711-2295-1ri2qnc.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ht0919/hum/rails5/rspec-sample/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/ht0919/hum/rails5/rspec-sample/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/ht0919/hum/rails5/rspec-sample/vendor/bundle/ruby/2.4.0/gems/json-2.1.0/ext/json
+make "DESTDIR=" install

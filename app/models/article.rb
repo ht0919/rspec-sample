@@ -1,4 +1,5 @@
 class Article < ApplicationRecord
+  has_many :comments
   enum status: { draft: 0, published: 1 }
 
   # 20 文字以上の記事タイトルを省略する
